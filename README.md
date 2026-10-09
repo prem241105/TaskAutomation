@@ -1,4 +1,4 @@
-# CodeAlpha Task 3 — Task Automation with Python Scripts
+#Task Automation with Python Scripts
 
 ## What it does
 This menu-driven program includes three small automation choices:
